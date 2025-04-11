@@ -97,5 +97,7 @@ plt.show()
 # OUTPUT
    ![image](https://github.com/user-attachments/assets/5863aee8-00ca-4bd6-bf73-847bcbe7e706)
 
+
+
 # RESULT / CONCLUSIONS
   Thus the pulse code modulation converts an analog sine wave into a digital signal and the graph is obtained.
